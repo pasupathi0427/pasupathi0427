@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pasupathi0427
 - 👀 I’m interested in innovative and team projects 
-- 🌱 I’m currently learning python ,Mysql
+- 🌱 I’m currently learning python ,java,Mysql
 - 💞️ I’m looking to collaborate on projects with data analysis and database 
 - 📫 How to reach me -pasupathi2001@gmail.com
 - 😄 Pronouns: ...
